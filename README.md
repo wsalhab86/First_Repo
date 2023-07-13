@@ -1,5 +1,5 @@
 # Git Hub
-
+**Example of table**
 Tables
 ---------------------------
 
@@ -21,3 +21,17 @@ cd my_app
 ``` 
 git init 
 ```
+
+- step 3: **Adding files to the Repository**
+```
+git add .
+```
+- step 4: **commit changes**
+```
+git commit -m "virsion 0"
+```
+
+- step 5: **Create a remote repo**
+this is done on GitHub
+
+- setp 6: **Connect my local repo to the remote repo**
